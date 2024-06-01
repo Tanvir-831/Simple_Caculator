@@ -1,6 +1,4 @@
-Got it! Let's adjust the README.md to reflect that your Simple Calculator project is developed in C.
 
-```markdown
 # Simple Calculator
 
 A basic calculator implemented in C.
