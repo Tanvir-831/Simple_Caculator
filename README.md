@@ -1,4 +1,3 @@
-
 # Simple Calculator
 
 A basic calculator implemented in C.
